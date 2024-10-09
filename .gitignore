@@ -1,0 +1,63 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Optional eslint cache
+.eslintcache
+
+# Vite and other build tool cache
+dist/
+.vite/
+.cache/
+out/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.DS_Store
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test coverage
+coverage/
+
+# Production build
+/build
+
+# Storybook files
+.storybook/
+
+# Jest snapshot testing
+*.snap
+
+# Typescript specific
+*.tsbuildinfo
