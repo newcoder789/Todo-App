@@ -3,6 +3,8 @@ node_modules/
 .pnp/
 .pnp.js
 
+package.json
+
 # Optional eslint cache
 .eslintcache
 
